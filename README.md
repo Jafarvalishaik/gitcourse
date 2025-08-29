@@ -1,2 +1,3 @@
 # gitcourse
-This is the first git repository
+This is the first git Repository
+author-jafarvali
